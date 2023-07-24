@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+      // These are the two settings I was using in my other project, but I've seen
+      // a few other combinations ("ESNext", "NodeNext", etc.) lead to the same
+      // warning
+      "module": "ES2020",
+      "moduleResolution": "Bundler",
+      "strict": true
+    }
+  }

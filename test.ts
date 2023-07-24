@@ -1,4 +1,4 @@
-const {Hsluv} = require("hsluv");
+import {Hsluv} from "hsluv";
 
 var conv = new Hsluv();
 conv.hsluv_h = 10;
